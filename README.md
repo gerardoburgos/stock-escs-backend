@@ -13,3 +13,5 @@ API REST para la gestión de usuarios e inventario desarrollada con Node.js, Exp
 2. Importar el archivo `schema.sql` en MySQL.
 3. Iniciar el servidor con `npm start`.
 4. Acceder a la documentación en `http://localhost:3000/api-docs`.
+
+> **Nota de desarrollo:** Para practicar el registro de documentación, el control de versiones y la integración continua, subí este proyecto de backend a mi repositorio en GitHub: [stock-escs-backend](https://github.com/gerardoburgos/stock-escs-backend).
